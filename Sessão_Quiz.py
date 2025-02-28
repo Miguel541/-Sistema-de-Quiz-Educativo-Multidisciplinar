@@ -13,11 +13,11 @@ class SessaoQuiz:
   dificuldade = self.definir_dificuldade ( ) 
   perguntas_disponiveis = [ ]
   for p in perguntas :
-   if (not categoria or p.categoria == categoria ) :
+   if (not categoria or p.categoria == categoria) :
     if p.dificuldade == dificuldade :
      perguntas_disponiveis.append (p)
   if len ( perguntas_disponiveis ) > 0 :
-   escolha = random.choice (perguntas_disponiveis )
+   escolha = random.choice ( perguntas_disponiveis)
    return escolha 
   else :
    return None  
