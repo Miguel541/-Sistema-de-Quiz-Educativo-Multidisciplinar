@@ -8,13 +8,13 @@
  - Banco de perguntas organizadas por categorias e níveis de dificuldade**
  - Sistema de jogadores com perfis e histórico de desempenho
  - Diferentes modos de jogo (contra-relógio, eliminatórias, treino)
- • Feedback imediato com explicações para respostas incorretas
- • Sistema de pontuação baseado em dificuldade e tempo de resposta
- • Estatísticas de progresso e áreas para melhorar
+ - Feedback imediato com explicações para respostas incorretas
+ - Sistema de pontuação baseado em dificuldade e tempo de resposta
+ - Estatísticas de progresso e áreas para melhorar
  
  __Conceitos a utilizar:__
  - Classes para Pergunta, Jogador, Categoria e Sessão de Quiz
- • Listas e dicionários para armazenar perguntas e resultados
- • Métodos para selecionar perguntas adequadas ao nível do jogador
- • Funções para calcular pontuação e estatísticas
- • Estruturas condicionais para validação de respostas e progresso
+ - Listas e dicionários para armazenar perguntas e resultados
+ - Métodos para selecionar perguntas adequadas ao nível do jogador
+ - Funções para calcular pontuação e estatísticas
+ - Estruturas condicionais para validação de respostas e progresso
