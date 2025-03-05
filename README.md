@@ -5,7 +5,7 @@
  e acompanhar o progresso de aprendizagem.
  
  __Funcionalidades:__
- • **Banco de perguntas** organizadas por categorias e níveis de dificuldade
+ • **Banco de perguntas organizadas por categorias e níveis de dificuldade**
  • Sistema de jogadores com perfis e histórico de desempenho
  • Diferentes modos de jogo (contra-relógio, eliminatórias, treino)
  • Feedback imediato com explicações para respostas incorretas
