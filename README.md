@@ -1,8 +1,4 @@
-# -Sistema-de-Quiz-Educativo-Multidisciplinar
- Desenvolver um sistema de quiz interativo que permita testar conhecimentos em diversas areas tematicas e acompanhar o progresso de aprendizagem
-
-
- # __Projet 3: Sistema de Quiz Educativo Multidisciplinar__
+ ## __Projet 3: Sistema de Quiz Educativo Multidisciplinar__
 
  Objetivo:
  Desenvolver um sistema de quiz interativo que permita testar conhecimentos em diversas áreas temáticas
